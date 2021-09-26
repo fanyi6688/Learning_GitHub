@@ -1,1 +1,1 @@
-//This is a test for command: git commit.
+//This is a test for command: git commit. 2.
